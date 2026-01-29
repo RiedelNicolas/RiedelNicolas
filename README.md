@@ -1,9 +1,6 @@
-## Hi there 👋
+## Nicolás Riedel 🚀
 
-Hi! I'm Nicolás, a software developer based in **Buenos Aires, Argentina**.
+Software Engineering Graduate (UBA) & TA. Currently architecting mobile features @Mendel. Full-stack ownership with a focus on maintainability and finding the best tool for every problem.
 
-**I have experience working across the entire stack, using multiple technologies and programming languages**.
 
-In the present, I am working primarly with Typescript, ReactJS, React Native and NodeJS, but I'm always open to use what is necessary to get the job done.
-
-Additionally, I teach at **Universidad de Buenos Aires (UBA)**, where I am completing my final courses in **Software Engineering**.
+nariedel99@gmail.com
